@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/elite/Desktop/LandmineSeeker/Content/beep-sound.wav</SourceFile>
+  <SourceTime>2023-01-07T20:36:10.3602047+01:00</SourceTime>
+  <DestFile>C:/Users/elite/Desktop/LandmineSeeker/Content/bin/DesktopGL/Content/beep-sound.xnb</DestFile>
+  <DestTime>2023-01-09T18:11:46.9092861+01:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2022-07-26T13:44:56+02:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2022-07-26T13:44:56+02:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

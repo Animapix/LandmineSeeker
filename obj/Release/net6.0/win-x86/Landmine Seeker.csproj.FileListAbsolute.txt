@@ -1,0 +1,31 @@
+C:\Users\elite\Desktop\LandmineSeeker\bin\Release\net6.0\win-x86\Content\beep-sound.xnb
+C:\Users\elite\Desktop\LandmineSeeker\bin\Release\net6.0\win-x86\Content\DefaultFont.xnb
+C:\Users\elite\Desktop\LandmineSeeker\bin\Release\net6.0\win-x86\Content\Detector.xnb
+C:\Users\elite\Desktop\LandmineSeeker\bin\Release\net6.0\win-x86\Content\explosion.xnb
+C:\Users\elite\Desktop\LandmineSeeker\bin\Release\net6.0\win-x86\Content\Explosion_Fast.xnb
+C:\Users\elite\Desktop\LandmineSeeker\bin\Release\net6.0\win-x86\Content\Infantry.xnb
+C:\Users\elite\Desktop\LandmineSeeker\bin\Release\net6.0\win-x86\Content\Mine.xnb
+C:\Users\elite\Desktop\LandmineSeeker\bin\Release\net6.0\win-x86\Content\MineHole.xnb
+C:\Users\elite\Desktop\LandmineSeeker\bin\Release\net6.0\win-x86\Content\Player.xnb
+C:\Users\elite\Desktop\LandmineSeeker\bin\Release\net6.0\win-x86\Content\TileSet.xnb
+C:\Users\elite\Desktop\LandmineSeeker\bin\Release\net6.0\win-x86\Content\Warning.xnb
+C:\Users\elite\Desktop\LandmineSeeker\bin\Release\net6.0\win-x86\Landmine Seeker.exe
+C:\Users\elite\Desktop\LandmineSeeker\bin\Release\net6.0\win-x86\Content\Pixeled.ttf
+C:\Users\elite\Desktop\LandmineSeeker\bin\Release\net6.0\win-x86\Landmine Seeker.deps.json
+C:\Users\elite\Desktop\LandmineSeeker\bin\Release\net6.0\win-x86\Landmine Seeker.runtimeconfig.json
+C:\Users\elite\Desktop\LandmineSeeker\bin\Release\net6.0\win-x86\Landmine Seeker.dll
+C:\Users\elite\Desktop\LandmineSeeker\bin\Release\net6.0\win-x86\Landmine Seeker.pdb
+C:\Users\elite\Desktop\LandmineSeeker\bin\Release\net6.0\win-x86\MonoGame.Framework.dll
+C:\Users\elite\Desktop\LandmineSeeker\bin\Release\net6.0\win-x86\SDL2.dll
+C:\Users\elite\Desktop\LandmineSeeker\bin\Release\net6.0\win-x86\soft_oal.dll
+C:\Users\elite\Desktop\LandmineSeeker\obj\Release\net6.0\win-x86\Landmine Seeker.csproj.AssemblyReference.cache
+C:\Users\elite\Desktop\LandmineSeeker\obj\Release\net6.0\win-x86\Landmine Seeker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elite\Desktop\LandmineSeeker\obj\Release\net6.0\win-x86\Landmine Seeker.AssemblyInfoInputs.cache
+C:\Users\elite\Desktop\LandmineSeeker\obj\Release\net6.0\win-x86\Landmine Seeker.AssemblyInfo.cs
+C:\Users\elite\Desktop\LandmineSeeker\obj\Release\net6.0\win-x86\Landmine Seeker.csproj.CoreCompileInputs.cache
+C:\Users\elite\Desktop\LandmineSeeker\obj\Release\net6.0\win-x86\Landmine Seeker.csproj.CopyComplete
+C:\Users\elite\Desktop\LandmineSeeker\obj\Release\net6.0\win-x86\Landmine Seeker.dll
+C:\Users\elite\Desktop\LandmineSeeker\obj\Release\net6.0\win-x86\refint\Landmine Seeker.dll
+C:\Users\elite\Desktop\LandmineSeeker\obj\Release\net6.0\win-x86\Landmine Seeker.pdb
+C:\Users\elite\Desktop\LandmineSeeker\obj\Release\net6.0\win-x86\Landmine Seeker.genruntimeconfig.cache
+C:\Users\elite\Desktop\LandmineSeeker\obj\Release\net6.0\win-x86\ref\Landmine Seeker.dll

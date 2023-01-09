@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/elite/Desktop/LookingForMercy/Content/beep-sound.wav</File>
+    <File>C:/Users/elite/Desktop/LookingForMercy/Content/DefaultFont.spritefont</File>
+    <File>C:/Users/elite/Desktop/LookingForMercy/Content/Detector.png</File>
+    <File>C:/Users/elite/Desktop/LookingForMercy/Content/Explosion_Fast.wav</File>
+    <File>C:/Users/elite/Desktop/LookingForMercy/Content/explosion.png</File>
+    <File>C:/Users/elite/Desktop/LookingForMercy/Content/Infantry.png</File>
+    <File>C:/Users/elite/Desktop/LookingForMercy/Content/Mine.png</File>
+    <File>C:/Users/elite/Desktop/LookingForMercy/Content/MineHole.png</File>
+    <File>C:/Users/elite/Desktop/LookingForMercy/Content/Player.png</File>
+    <File>C:/Users/elite/Desktop/LookingForMercy/Content/TileSet.png</File>
+    <File>C:/Users/elite/Desktop/LookingForMercy/Content/Warning.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

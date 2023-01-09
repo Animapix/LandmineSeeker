@@ -1,0 +1,20 @@
+C:\Users\elite\Desktop\Build\Content\Pixeled.ttf
+C:\Users\elite\Desktop\Build\Landmine Seeker.exe
+C:\Users\elite\Desktop\Build\Content/beep-sound.xnb
+C:\Users\elite\Desktop\Build\Content/DefaultFont.xnb
+C:\Users\elite\Desktop\Build\Content/Detector.xnb
+C:\Users\elite\Desktop\Build\Content/explosion.xnb
+C:\Users\elite\Desktop\Build\Content/Explosion_Fast.xnb
+C:\Users\elite\Desktop\Build\Content/Infantry.xnb
+C:\Users\elite\Desktop\Build\Content/Mine.xnb
+C:\Users\elite\Desktop\Build\Content/MineHole.xnb
+C:\Users\elite\Desktop\Build\Content/Player.xnb
+C:\Users\elite\Desktop\Build\Content/TileSet.xnb
+C:\Users\elite\Desktop\Build\Content/Warning.xnb
+C:\Users\elite\Desktop\Build\Landmine Seeker.dll
+C:\Users\elite\Desktop\Build\Landmine Seeker.deps.json
+C:\Users\elite\Desktop\Build\Landmine Seeker.runtimeconfig.json
+C:\Users\elite\Desktop\Build\Landmine Seeker.pdb
+C:\Users\elite\Desktop\Build\MonoGame.Framework.dll
+C:\Users\elite\Desktop\Build\SDL2.dll
+C:\Users\elite\Desktop\Build\soft_oal.dll

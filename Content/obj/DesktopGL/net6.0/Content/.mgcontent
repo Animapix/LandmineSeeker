@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/elite/Desktop/LandmineSeeker/Content/beep-sound.wav</File>
+    <File>C:/Users/elite/Desktop/LandmineSeeker/Content/DefaultFont.spritefont</File>
+    <File>C:/Users/elite/Desktop/LandmineSeeker/Content/Detector.png</File>
+    <File>C:/Users/elite/Desktop/LandmineSeeker/Content/Explosion_Fast.wav</File>
+    <File>C:/Users/elite/Desktop/LandmineSeeker/Content/explosion.png</File>
+    <File>C:/Users/elite/Desktop/LandmineSeeker/Content/Infantry.png</File>
+    <File>C:/Users/elite/Desktop/LandmineSeeker/Content/Mine.png</File>
+    <File>C:/Users/elite/Desktop/LandmineSeeker/Content/MineHole.png</File>
+    <File>C:/Users/elite/Desktop/LandmineSeeker/Content/Player.png</File>
+    <File>C:/Users/elite/Desktop/LandmineSeeker/Content/TileSet.png</File>
+    <File>C:/Users/elite/Desktop/LandmineSeeker/Content/Warning.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
